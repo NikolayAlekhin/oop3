@@ -5,3 +5,7 @@
 cd
 C:\Path\To\Folder
 ```
+
+```C 
+int main(void)
+```
