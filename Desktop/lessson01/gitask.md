@@ -35,3 +35,17 @@
 
 >>>* _git chekout_ 
 
+***
+
+* ***Вернуться к актуальному состоянию и продолжить работу***
+```
+git checkout master 
+```
+***
+>>> увидеть разницу мужду текущем файлом и закоммиченным файлом
+* *git diff*
+
+***
+# Также подсказку по GIT  можно посмотреть на изображении 
+![Изображение](https://sun9-65.userapi.com/impg/VUvRlp1J92W6RvpLLk4o2N2rGqhg5VWdig455A/g7AfqiunoJc.jpg?size=1662x755&quality=96&sign=b3a83b7bb1c2d3de14163cd8945eab62&type=album) 
+ 
