@@ -46,6 +46,9 @@ git checkout master
 * *git diff*
 
 ***
-# Также подсказку по GIT  можно посмотреть на изображении 
+# Подсказку по GIT  можно посмотреть на изображении 
 ![Изображение](https://sun9-65.userapi.com/impg/VUvRlp1J92W6RvpLLk4o2N2rGqhg5VWdig455A/g7AfqiunoJc.jpg?size=1662x755&quality=96&sign=b3a83b7bb1c2d3de14163cd8945eab62&type=album) 
+ ***
+ # Подсказку по оформлению Markdown можно посмотреть на изображении 
+ ![Изображение](https://psv4.userapi.com/c236331/u107117052/docs/d20/1de483938f83/sam.png?extra=tDQVULW0EdzJe37ejcrn5160oHyFVp8MDTZqYK-4nqZFopTBhRH5hNSfCBN0Qdjoi02d5j7oYaq9blp5skTsBbmc4vHw7DQ54cPGMOTNTI8Z0dyTZ4QRxp4e8awYENut6pw9Howjey7JpwCZ7Q930IhoVw)
  
